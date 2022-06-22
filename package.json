@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.3",
+    "mongoose": "^6.2.0"
+  }
+}
